@@ -1,0 +1,12 @@
+[
+  {
+    "applicationId":"51eae100c2e6b6c222ec0000",
+    "file_name": "attachment1.pdf",
+    "file_data": "base64_encoded_data_here"
+  },
+  {
+    "applicationId":"51eae100c2e6b6c222ec0001",
+    "file_name": "attachment2.jpg",
+    "file_data": "base64_encoded_data_here"
+  }
+]

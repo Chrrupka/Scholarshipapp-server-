@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "51eae100c2e6b6c222ec0000",
+    "type": "Type I",
+    "status": "Status I"
+  },
+  {
+    "_id": "51eae100c2e6b6c222ec0001",
+    "type": "Type II",
+    "status": "Status II"
+  },
+  {
+    "_id": "51eae100c2e6b6c222ec0003",
+    "type": "Type II",
+    "status": "Status II"
+  }
+]

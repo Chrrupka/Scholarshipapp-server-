@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "51eae100c2e6b6c222ec3442",
+    "email": "admin@gmail.com",
+    "name": "Admin",
+    "surname": "Strator",
+    "isAdmin": true,
+    "role": "admin",
+    "active": true,
+    "activationHash": "ebf7e29e2cf0ef4bcf22dde8414e38beb7c1848f"
+  },
+  {
+    "_id": "00eae100c2e6b6c222ec3442",
+    "email": "student@gmail.com",
+    "name": "Student",
+    "surname": "Ans",
+    "isAdmin": false,
+    "role": "user",
+    "active": true,
+    "activationHash": "00f7e29e2cf0ef4bcf22dde8414e38beb7c1848f"
+  }
+]
